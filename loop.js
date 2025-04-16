@@ -13,8 +13,20 @@ while (x > 0) {
     let y = 0
     while (y < x) {
         temp += "* "
-        y++;
+        y++
     }
     console.log(temp)
-    x--;
+    x--
+}
+
+let k = 0
+while (k <= 5 ) {
+    let temp = ""
+    let l = 0
+    while (l < k) {
+        temp += "* "
+        l++
+    }
+    console.log(temp)
+    k++
 }
