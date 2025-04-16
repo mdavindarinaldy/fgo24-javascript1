@@ -2,6 +2,9 @@ const studentData = [
     {
         name: "John",
         score: 80
+    },{
+        name: "Arie",
+        score: 99
     }, {
         name: "Jane",
         score: 85
